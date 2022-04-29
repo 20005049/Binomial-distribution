@@ -1,7 +1,7 @@
-# Lab-Experiment-1-Fitting-Poisson-Distribution
+# Fitting Binomial Distribution
 #Aim : 
 
-  To fit Poisson distribution for the given data
+  To fit binomial distribution for the given data
 
 # Software required : 
  Python
@@ -30,4 +30,4 @@ SEMESTER: //
 
 
 
-#Results and Output : 
+# Results and Output : 
