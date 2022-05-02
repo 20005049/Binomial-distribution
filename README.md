@@ -27,9 +27,8 @@ The following are criteria for a frequency distribution to be a binomial distrib
 
 # Program
 
-![image](https://user-images.githubusercontent.com/104613195/166092297-97258376-18e2-4f1e-8eee-9a1b55a285a3.png)
 
 
 
 # Results and Output : 
-![image](https://user-images.githubusercontent.com/104613195/166090772-4cddad60-065f-44e1-b90c-60161fc0ec44.png)
+
